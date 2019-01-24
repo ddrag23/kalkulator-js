@@ -1,0 +1,44 @@
+input {
+    text-align: right;
+    width: 410px;
+    border-style: solid;
+    font-size: 16px;
+}
+
+table {
+    border: none;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 5px;
+    border: none;
+}
+
+input[type=text]:disabled {
+    background-color: white;
+}
+
+.btn {
+    width: 100px;
+    height: 40px;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.opr {
+    background-color: #555555;
+}
+
+.clr {
+    background-color: #f44336;
+    ;
+}
+
+.hsl {
+    background-color: #008CBA;
+}
